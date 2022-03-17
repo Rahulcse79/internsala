@@ -1,1 +1,1 @@
-# internsala
+# internshala
